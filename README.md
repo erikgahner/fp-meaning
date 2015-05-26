@@ -2,7 +2,7 @@ What is in a number? Reconsidering the evidence on nine-ender effects on the eng
 ---
 
 ### Description and Data Sources
-Replication material for commentary in [Frontiers in Psychology](http://journal.frontiersin.org/journal/psychology). Data from two different data sources is needed in order to replicate the results reported in the commentary, 1) the original data from Alter and Hersfield (2014) and Wave 1 to Wave 6 of the World Values Survey:
+Replication material for commentary forthcoming in [Frontiers in Psychology](http://journal.frontiersin.org/journal/psychology). Data from two different data sources is needed in order to replicate the results reported in the commentary, 1) the original data from Alter and Hersfield (2014) and Wave 1 to Wave 6 of the World Values Survey:
 
 - Data from Alter and Hershfield (2014) can be downloaded in SPSS format from [http://www.openicpsr.org/repoEntity/show/18882?versionId=18882V2](http://www.openicpsr.org/repoEntity/show/18882?versionId=18882V2)
 - Data from World Values Survey can be downloaded in SPSS format from [http://www.worldvaluessurvey.org/](http://www.worldvaluessurvey.org/) (usage information required)
@@ -16,6 +16,7 @@ Replication material for commentary in [Frontiers in Psychology](http://journal.
 ##### `/R/`
 
 - `nineender-r.R` = R script used to produce all results reported in paper.
+- `sessionInfo.txt` = Output from sessionInfo() in R
 
 #### `/paper/`
 
