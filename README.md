@@ -1,7 +1,7 @@
 What is in a number? Reconsidering the evidence on nine-ender effects on the engagement in meaning searching behavior
 ---
 
-### Description
+### Description and Data Sources
 Replication material for commentary in [Frontiers in Psychology](http://journal.frontiersin.org/journal/psychology). Data from two different data sources is needed in order to replicate the results reported in the commentary, 1) the original data from Alter and Hersfield (2014) and Wave 1 to Wave 6 of the World Values Survey:
 
 - Data from Alter and Hershfield (2014) can be downloaded in SPSS format from [http://www.openicpsr.org/repoEntity/show/18882?versionId=18882V2](http://www.openicpsr.org/repoEntity/show/18882?versionId=18882V2)
@@ -23,8 +23,7 @@ Replication material for commentary in [Frontiers in Psychology](http://journal.
 
 ### Session info
 
-
-[RStudio](http://www.rstudio.com/) () with the following R session:
+The analyses were made with [RStudio](http://www.rstudio.com/) (Version 0.98.1103) with the following R session:
 
 ```
 ## R version 3.2.0 (2015-04-16)
