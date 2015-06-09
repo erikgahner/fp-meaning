@@ -1,8 +1,8 @@
-What is in a number? Reconsidering the evidence on nine-ender effects on the engagement in meaning searching behavior
+Commentary on: People search for meaning when they approach a new decade in chronological age
 ---
 
 ### Description and Data Sources
-Replication material for commentary forthcoming in [Frontiers in Psychology](http://journal.frontiersin.org/journal/psychology). Data from two different data sources is needed in order to replicate the results reported in the commentary, namely 1) the original data from Alter and Hersfield (2014) and 2) Wave 1 to Wave 6 of the World Values Survey. All data sets can be obtained for free online:
+Replication material for [commentary](http://journal.frontiersin.org/article/10.3389/fpsyg.2015.00792/full) published in [Frontiers in Psychology](http://journal.frontiersin.org/journal/psychology). Data from two different data sources is needed in order to replicate the results reported in the commentary, namely 1) the original data from Alter and Hersfield (2014) and 2) Wave 1 to Wave 6 of the World Values Survey. All data sets can be obtained for free online:
 
 - Data from Alter and Hershfield (2014) can be downloaded in SPSS format (`.sav`) from [http://www.openicpsr.org/repoEntity/show/18882?versionId=18882V2](http://www.openicpsr.org/repoEntity/show/18882?versionId=18882V2)
 - Data from World Values Survey can be downloaded in SPSS format from [http://www.worldvaluessurvey.org/](http://www.worldvaluessurvey.org/) (usage information required)
@@ -15,12 +15,12 @@ Replication material for commentary forthcoming in [Frontiers in Psychology](htt
 
 ##### `/R/`
 
-- `nineender-r.R` = R script used to produce all results reported in paper.
+- `nineender-r.R` = R script used to produce all results reported in paper
 - `sessionInfo.txt` = Output from sessionInfo() in R
 
 #### `/paper/` 
 
-- _Empty_ (forthcoming)
+- `2015meaning.pdf` = PDF version of paper
 
 ### Session info
 
